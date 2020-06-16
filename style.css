@@ -1,0 +1,95 @@
+body {
+  background-color: #333333;
+  color: white;
+}
+
+h1 {
+  background-color: #11039183;
+  color: #d64f00dc;
+  font-style: italic;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h3 {
+  background-color:#d64f00dc;
+  color: #050505;
+  font-family: Arial;
+}
+
+.bands {
+  color: rgb(66, 0, 0);
+  font-family: monospace;
+  font-weight: bolder;
+  background-color: #009edde8;
+  width: fit-content;
+  height: fit-content;
+  border-style: solid;
+  border-color: rgb(179, 1, 24);
+  padding: 10px;
+  margin-bottom:15px;
+}
+
+.movies {
+  color: #ffffff;
+  font-family: cursive;
+  font-weight: bold;
+  background-color: #042e0dfa;
+  width: fit-content;
+  height: fit-content;
+  border-style: dashed;
+  border-color: #6500e9;
+  border-radius: 100px;
+  padding: 30px;
+  margin-bottom:15px;
+}
+
+.color {
+  color: #e9e500;
+  font-family: 'Trebuchet MS';
+  font-weight: bolder;
+  background-color: #3b005efa;
+  width: fit-content;
+  height: fit-content;
+  border-style: ridge;
+  border-color: #2fe900;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom:15px;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.dessert {
+  color: #1400ca;
+  font-family: 'Trebuchet MS';
+  font-weight: bolder;
+  background-color: #009650fa;
+  width: fit-content;
+  height: fit-content;
+  border-style: dotted;
+  border-color: #c50000;
+  padding: 10px;
+  margin-bottom:15px;
+}
+
+button {
+  color: #ff0000;
+  background-color: #4b0900;
+  font-family: Ariel;
+  font-size: x-large;
+  border-style: double;
+  border-top-left-radius: 10px;
+  
+  
+}
